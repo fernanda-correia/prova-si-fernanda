@@ -25,3 +25,4 @@ Um contador atualiza o número de jogos existentes.
 <img src="assets/contador.png">
 </div>
 
+Infelizmente não foi possível fazer o armazenador de jogos funcionar, uma vez que ele não consegue armazenar os dados dentro do array.
