@@ -10,6 +10,6 @@ As regras de negócio utilizadas para garantir a segurança e o bom uso do siste
 Um jogo é criado pelo administrador do jogos 
 
 <div align="center">
-<img src="../assets/jogo-funcionando" alt="Matriz Blue Ocean">
+<img src="assets/jogo-funcionando">
 </div>
 
