@@ -10,6 +10,18 @@ As regras de negócio utilizadas para garantir a segurança e o bom uso do siste
 Um jogo é criado pelo administrador do jogos 
 
 <div align="center">
-<img src="assets/jogo-funcionando">
+<img src="assets/jogo-funcionando.png">
+</div>
+
+Somente o administrador do código pode adicionar novos jogos, se não, a transação é revertida
+
+<div align="center">
+<img src="assets/jogo-nao-funcionando.png">
+</div>
+
+Um contador atualiza o número de jogos existentes.
+
+<div align="center">
+<img src="assets/contador.png">
 </div>
 
